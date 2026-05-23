@@ -150,13 +150,12 @@ Build for failure. Design for scale. Automate everything else.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrWater00&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=4a9abb&count_private=true&cache_seconds=1800&rank_icon=github" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWater00&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=4a9abb&cache_seconds=1800&langs_count=8" />
+<img width="49%" src="https://project-irh46.vercel.app/api?username=MrWater00&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=4a9abb&count_private=true" />
+<img width="49%" src="https://project-irh46.vercel.app/api/top-langs/?username=MrWater00&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=4a9abb" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=MrWater00&hide_border=true&background=0d1117&stroke=0a2a4a&ring=00d4ff&fire=4a9abb&currStreakLabel=00d4ff&sideLabels=4a9abb&dates=4a9abb&currStreakNum=00d4ff&sideNums=4a9abb" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=MrWater00&hide_border=true&background=0d1117&stroke=0a2a4a&ring=00d4ff&fire=4a9abb&currStreakLabel=00d4ff&sideLabels=4a9abb&dates=4a9abb&currStreakNum=00d4ff&sideNums=4a9abb" />
 
 <br><br>
 
